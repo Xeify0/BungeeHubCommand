@@ -1,0 +1,4 @@
+server: "Hub-1"
+messages:
+  success: "&aYou have been sent to &6Hub-1"
+  error: "&cThe specified server could not be found."
