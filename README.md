@@ -3,7 +3,7 @@ Built for 1.8-1.20. This plugin is very simple.
 
 ## Installation
 
-You can build it using modules, but typically use mvn install, and build the jar that way. And thus will also showing the method for that way.
+You can build it using modules, but typically I prefer and use mvn install, and build the jar that way.
 
 
 ```bash
